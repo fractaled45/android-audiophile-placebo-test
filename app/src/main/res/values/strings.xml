@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Audiophile Placebo Test</string>
+    <string name="buttonPlayPause_contentDesc">Play/Pause</string>
+    <string name="buttonSeekForward_contentDesc">Seek Forward</string>
+    <string name="buttonSeekBackward_contentDesc">Seek Backward</string>
+    <string name="toastMaxFilesLoaded">Limit of %d files loaded.</string>
+    <string name="textViewEmptyListIndicator_text">Load an audio file to begin</string>
+    <string name="toastUnhideFiles">Please unhide before loading a new file</string>
+    <string name="buttonToggleHide_filesNotHidden">Hide and Shuffle</string>
+    <string name="buttonToggleHide_filesHidden">Unhide</string>
+    <string name="checkBoxGlobalControls_text">Global Controls</string>
+    <string name="buttonDelete_contentDescription">Delete Button</string>
+    <string name="dragHandle_contentDescription">Drag Handle</string>
+    <string name="hiddenFilename">Audio File #</string>
+    <string name="toast_differingdurations">To enable global controls, files cannot have different durations.</string>
+    <string name="loadfile_title">Load file</string>
+</resources>
